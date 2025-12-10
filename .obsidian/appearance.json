@@ -1,5 +1,6 @@
 {
   "cssTheme": "AnuPpuccin",
   "accentColor": "",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "monospaceFontFamily": "Consolas"
 }

@@ -4,42 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "19ddba28594b6b89",
+        "id": "d7ac45ec3740d5ea",
         "type": "tabs",
         "children": [
           {
-            "id": "6b2dae1fe4cee532",
+            "id": "bfd0b86bb6dede6a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "ce5a22bf28e29c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cortex-M 系统中断（SVC、PendSV、SysTick）与 FreeRTOS 调度机制.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cortex-M 系统中断（SVC、PendSV、SysTick）与 FreeRTOS 调度机制"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,9 +191,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ce5a22bf28e29c3f",
+  "active": "4e682222454fbce5",
   "lastOpenFiles": [
+    "book/自动控制原理.pdf",
+    "book/自动控制原理_9787030761736 15330683.pdf",
+    "book/IS620P系列伺服应用手册-CANopen通讯篇.pdf",
+    "book/CiA-402-2-version-3.0.0.pdf",
+    "book/Cia_301_V4.2.0.pdf",
+    "book/CANOPEN通讯用户手册2019.6.13(1).pdf",
+    "book/canopen轻松入门.pdf",
+    "book/华为c编程规范.pdf",
+    "note/中断/Cortex-M 系统中断（SVC、PendSV、SysTick）与 FreeRTOS 调度机制.md",
+    "book/三合一.pdf",
+    "book/《毛选》阅读指南.pdf",
+    "note/中断",
+    "note/Cortex-M 系统中断（SVC、PendSV、SysTick）与 FreeRTOS 调度机制.md",
     "Cortex-M 系统中断（SVC、PendSV、SysTick）与 FreeRTOS 调度机制.md",
+    "README.en.md",
     "未命名.canvas",
     "README.md"
   ]
