@@ -11,10 +11,14 @@
             "id": "bfd0b86bb6dede6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "note/中断/Cortex-M 系统中断（SVC、PendSV、SysTick）与 FreeRTOS 调度机制.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Cortex-M 系统中断（SVC、PendSV、SysTick）与 FreeRTOS 调度机制"
             }
           }
         ]
@@ -177,13 +181,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -191,7 +195,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4e682222454fbce5",
+  "active": "bfd0b86bb6dede6a",
   "lastOpenFiles": [
     "book/自动控制原理.pdf",
     "book/自动控制原理_9787030761736 15330683.pdf",
